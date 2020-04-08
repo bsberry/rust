@@ -1,0 +1,5 @@
+echo foo
+echo bar
+# sleep 1
+echo baz
+echo qux
