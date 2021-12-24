@@ -9,3 +9,7 @@ edition = "2018"
 [dependencies]
 dialoguer = "0.5.0"
 isatty = "0.1"
+
+[[bin]]
+name = "oc"
+path = "src/main.rs"
